@@ -1,5 +1,11 @@
 # nf-core/tools: Changelog
 
+## v.1.6.1
+
+### Launch
+* Introduces stable parameter schema
+* Fixes broken URL for parameter schema reference
+
 ## v1.6
 
 #### Syncing
